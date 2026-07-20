@@ -62,6 +62,17 @@ Alinhado aos **ODS 8 (Trabalho Decente)** e **ODS 11 (Cidades Sustentáveis)**, 
 
 ---
 
+## 🏛️ Para Gestores Públicos e Formuladores de Políticas
+
+O VetorCerto foi projetado para ser uma **ferramenta de governança**, ajudando cidades e estados a:
+
+- **Mapear a demanda por serviços** em cada bairro, permitindo a alocação eficiente de recursos e políticas de capacitação profissional.
+- **Gerar relatórios de impacto** com indicadores claros (ODS 8 e 11), prontos para serem usados em planejamentos estratégicos e prestações de contas.
+- **Promover a inclusão produtiva**, conectando trabalhadores informais a oportunidades reais de renda, em alinhamento com programas como o Cadastro Único e o Sine.
+- **Criar um ecossistema de trabalho digno** com transparência, avaliação bilateral e dados abertos.
+
+**Pronto para implantação imediata.** Este piloto em Guarapuava/PR já utiliza dados reais do CEPLUG, podendo ser adaptado para qualquer município brasileiro.
+
 ## 📦 Instalação e Configuração
 
 ### Pré-requisitos
